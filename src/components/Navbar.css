@@ -9,15 +9,3 @@
   font-size: 1.3rem;
   text-transform: uppercase;
 }
-.button {
-  background: transparent;
-  border: solid 0.05rem var(--lightBlue);
-  font-size: 1.2rem;
-  text-transform: capitalize;
-  color: var(--mainWhite);
-}
-.button:hover {
-  background: var(--mainBlue);
-  font-size: 1.3rem;
-  border: solid 0.1rem var(--lightBlue);
-}

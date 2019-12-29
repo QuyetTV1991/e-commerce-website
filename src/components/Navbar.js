@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import shop_logo from "../images/funiture-logo.png";
-import './Navbar.css'
+import "./Navbar.css";
+import Button from "./button/Button";
 
 class Navbar extends Component {
   render() {
@@ -18,12 +19,12 @@ class Navbar extends Component {
           </li>
         </ul>
         <Link to="/cart" className="ml-auto">
-          <button className="button">
+          <Button className="bg-warning text-primary text-uppercase">
             <span className="mr-2">
               <i className="fas fa-cart-plus" />
             </span>
             My Cart
-          </button>
+          </Button>
         </Link>
       </nav>
     );

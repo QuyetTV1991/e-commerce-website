@@ -1,0 +1,23 @@
+.button {
+  background: transparent;
+  border: solid 0.05rem var(--lightBlue);
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  color: var(--lightBlue);
+}
+.button:hover {
+  background: var(--mainBlue);
+  color: var(--mainWhite);
+}
+.btn-yellow {
+  background: transparent;
+  border: solid 0.05rem var(--mainYellow);
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  color: var(--mainYellow);
+}
+.btn-yellow:hover {
+  background: var(--mainYellow);
+  color: var(--mainWhite);
+  border: solid 0.1rem var(--mainYellow);
+}

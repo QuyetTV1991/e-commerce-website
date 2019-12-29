@@ -8,6 +8,7 @@ import Cart from "./components/Cart/Cart";
 import Default from "./components/Default";
 import Detail from "./components/Detail";
 import PopUp from "./components/PopUp";
+import Checkouted from "./components/Checkouted";
 
 class App extends React.Component {
   render() {
@@ -18,6 +19,7 @@ class App extends React.Component {
           <Route exact path="/" component={ProductList} />
           <Route path="/detail" component={Detail} />
           <Route path="/cart" component={Cart} />
+          <Route path="/checkouted" component={Checkouted} />
           <Route component={Default} />
         </Switch>
         <PopUp />

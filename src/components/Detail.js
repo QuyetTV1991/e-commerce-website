@@ -1,6 +1,8 @@
 import React from "react";
 import { ProductConsumer } from "./context";
 import { Link } from "react-router-dom";
+import Button from "./button/Button";
+import { formatMoney } from "./Tools/formatMoney";
 
 const Detail = () => {
   return (
@@ -32,7 +34,7 @@ const Detail = () => {
                   <strong>
                     price:{" "}
                     <span>
-                      {price} {currency}
+                      {formatMoney(price)} {currency}
                     </span>
                   </strong>
                 </h4>
@@ -42,10 +44,11 @@ const Detail = () => {
                 <p className="text-muted lead">{info}</p>
                 <div className="d-flex justify-content-around">
                   <Link to="/">
-                    <button className="btn-primary">Back To Shopping</button>
+                    <Button>Back To Shopping</Button>
                   </Link>
-                  <button
-                    className="btn-primary text-capitalize"
+                  <Button
+                    className="text-capitalize"
+                    cart
                     disabled={inCart ? true : false}
                     onClick={() => {
                       value.addToCart(id);
@@ -53,7 +56,7 @@ const Detail = () => {
                     }}
                   >
                     {inCart ? "in cart" : "add to cart"}
-                  </button>
+                  </Button>
                 </div>
               </div>
             </div>

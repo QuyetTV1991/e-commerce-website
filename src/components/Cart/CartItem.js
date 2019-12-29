@@ -1,4 +1,5 @@
 import React from "react";
+import { formatMoney } from "../Tools/formatMoney";
 
 const CartItem = ({ item, value }) => {
   const { id, img, name, price, currency, count, total } = item;
@@ -19,7 +20,7 @@ const CartItem = ({ item, value }) => {
       </div>
       <div className="col-10 mx-auto col-lg-2">
         <span className="d-lg-none text-capitalize">price :</span>
-        {price} {currency}
+        {formatMoney(price)} {currency}
       </div>
       <div className="col-10 mx-auto col-lg-2 my-2 my-lg-0">
         <div className="d-flex justify-content-center">
@@ -34,11 +35,14 @@ const CartItem = ({ item, value }) => {
           </div>
         </div>
       </div>
-      <div className="remove-icon col-10 mx-auto col-lg-2" onClick={() => removeItem(id)}>
+      <div
+        className="remove-icon col-10 mx-auto col-lg-2"
+        onClick={() => removeItem(id)}
+      >
         <i className="fas fa-trash" />
       </div>
       <div className="col-10 mx-auto col-lg-2">
-        {total} {currency}
+        {formatMoney(total)} {currency}
       </div>
     </div>
   );

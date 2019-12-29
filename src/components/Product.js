@@ -3,6 +3,7 @@ import "./Product.css";
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import { ProductConsumer } from "./context";
+import { formatMoney } from "./Tools/formatMoney";
 
 const Product = props => {
   const { id, name, img, price, currency, inCart } = props.product;
@@ -39,7 +40,7 @@ const Product = props => {
           <p className="align-seft-center mb-0">{name}</p>
           <h5 className="text-blue font-italic mb-0">
             <span className="mr-1">
-              {price} {currency}
+              {formatMoney(price)} {currency}
             </span>
           </h5>
         </div>

@@ -2,6 +2,8 @@ import React from "react";
 import { ProductConsumer } from "./context";
 import "./PopUp.css";
 import { Link } from "react-router-dom";
+import Button from "./button/Button";
+import { formatMoney } from "./Tools/formatMoney";
 
 const PopUp = () => {
   return (
@@ -22,24 +24,25 @@ const PopUp = () => {
                     <h2>{name}</h2>
                     <h5 className="text-muted">
                       <strong>price: </strong>
-                      {price} {currency}
+                      {formatMoney(price)} {currency}
                     </h5>
                     <div className="d-flex justify-content-around pb-1 mb-1">
                       <Link to="/">
-                        <button
-                          className="btn-primary text-capitalize"
+                        <Button
+                          className="text-capitalize"
                           onClick={() => closePopUp()}
                         >
                           continue shopping
-                        </button>
+                        </Button>
                       </Link>
                       <Link to="/cart">
-                        <button
-                          className="btn-primary text-capitalize"
+                        <Button
+                          className="text-capitalize"
                           onClick={() => closePopUp()}
+                          cart
                         >
                           go to cart
-                        </button>
+                        </Button>
                       </Link>
                     </div>
                   </div>
