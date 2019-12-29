@@ -1,0 +1,9 @@
+.text-blue {
+  color:var(--mainBlue);
+}
+.text-title {
+  font-family:"Poppins", sans-serif !important;
+  letter-spacing: 0.3rem;
+  text-transform: uppercase;
+  color:var(--lightBlue);
+}
