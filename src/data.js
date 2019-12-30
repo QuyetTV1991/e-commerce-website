@@ -6,7 +6,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-01.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -18,7 +18,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-02.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -30,7 +30,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-03.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-04.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -54,7 +54,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-05.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -66,7 +66,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-06.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -78,7 +78,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-07.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,7 +90,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-08.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -102,7 +102,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-09.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -114,7 +114,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-10.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.a",
     inCart: false,
     count: 0,
     total: 0
@@ -126,7 +126,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-11.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -138,7 +138,7 @@ export const data = [
     currency: "VND",
     img: "image/sofa-12.png",
     info:
-      "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+      "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
     inCart: false,
     count: 0,
     total: 0
@@ -152,7 +152,7 @@ export const detailProduct = {
   currency: "VND",
   img: "image/sofa-10.png",
   info:
-    "lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,bla lorem ipsum bla,bla,blalorem ipsum bla,bla,bla",
+    "Sofa được làm theo thiết kế đơn giản dễ dàng kết hợp với nhiều không gian và phong cách của từng người sử dụng. Ghế sofa được làm từ chất liệu khung gỗ tự nhiên, Nỉ nhập khẩu, mút xốp cao cấp kết hợp lò xo lưới. Sản phẩm được gia công tỷ mỉ, chất lượng tốt, giá cả phải chăng là sự lựa chọn tốt nhất cho mọi gia đình.",
   inCart: false,
   count: 0,
   total: 0
