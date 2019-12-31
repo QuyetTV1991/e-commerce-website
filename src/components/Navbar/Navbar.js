@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import shop_logo from "../images/funiture-logo.png";
+import shop_logo from '../../images/funiture-logo.png';
 import "./Navbar.css";
-import Button from "./button/Button";
+import Button from "../button/Button";
 
 class Navbar extends Component {
   render() {
@@ -15,6 +15,11 @@ class Navbar extends Component {
           <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
               Product
+            </Link>
+          </li>
+          <li className="nav-item ml-5">
+            <Link to="/contact" className="nav-link">
+              contact
             </Link>
           </li>
         </ul>
